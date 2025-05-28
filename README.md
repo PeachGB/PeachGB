@@ -1,2 +1,2 @@
-Future Electrical Engineer. \n
+Future Electrical Engineer. 
 Linux Enthusiast, i code sometimes
