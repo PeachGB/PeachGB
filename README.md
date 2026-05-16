@@ -1,24 +1,16 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 I'm Arián</h1>
+Rust developer. Interested in systems programming and low-level tooling.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="r logo"  />
-</div>
+## Currently working on
 
-###
+**[cpu](https://github.com/PeachGB/cpu)** — CHIP-8 emulator in Rust. Full fetch/decode/execute cycle, type-safe instruction set via enums, defensive stack management.
 
+**[Regressor](https://github.com/PeachGB/Regressor)** — Machine learning library in Rust exposed to Python via PyO3, built on top of Polars.
 
+## Stack
+Rust · Go · Java · Python · Next.js
+Anchor · Solana · PyO3 · Polars · Tokio · Axum
 
-###
-
+## Contact
+Open to freelance contracts — systems tooling, high-performance backends, Rust/Python FFI.
+Reach me at arianmateos@gmail.com
