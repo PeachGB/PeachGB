@@ -11,5 +11,4 @@ Rust developer. Interested in systems programming and low-level tooling.
 [![My Skills](https://skillicons.dev/icons?i=rust,go,java,py,nextjs)](https://skillicons.dev)
 
 ## Contact
-Open to freelance contracts — systems tooling, high-performance backends, Rust/Python FFI.
 Reach me at arianmateos@gmail.com
