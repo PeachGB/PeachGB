@@ -3,7 +3,7 @@ Rust developer. Interested in systems programming and low-level tooling.
 
 ## Currently working on
 
-**[cpu](https://github.com/PeachGB/cpu)** — CHIP-8 emulator in Rust. Full fetch/decode/execute cycle, type-safe instruction set via enums, defensive stack management.
+**[PeachDB](https://github.com/PeachGB/PeachDB)** — Async key-value database in Rust. File-backed storage engine with WAL, binary TCP protocol, and a custom type system — built on Tokio.
 
 **[Regressor](https://github.com/PeachGB/Regressor)** — Machine learning library in Rust exposed to Python via PyO3, built on top of Polars.
 
