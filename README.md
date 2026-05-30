@@ -8,7 +8,7 @@ Rust developer. Interested in systems programming and low-level tooling.
 **[Regressor](https://github.com/PeachGB/Regressor)** — Machine learning library in Rust exposed to Python via PyO3, built on top of Polars.
 
 ## Stack
-[![My Skills](https://skillicons.dev/icons?i=rust,go,java,py,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,java,go,py,nextjs)](https://skillicons.dev)
 
 ## Contact
 Reach me at arianmateos@gmail.com
