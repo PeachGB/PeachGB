@@ -3,7 +3,7 @@ Rust developer. Interested in systems programming and low-level tooling.
 
 ## Currently working on
 
-**[Nimbus](https://github.com/PeachGB/nimbus))** - Object sync abstraction tool with customizable origin, written in Rust
+**[Nimbus](https://github.com/PeachGB/nimbus)** - Object sync abstraction tool with customizable origin, written in Rust
 
 **[PeachDB](https://github.com/PeachGB/PeachDB)** - Async key-value database in Rust. File-backed storage engine with WAL, binary TCP protocol, and a custom type system — built on Tokio.
 
