@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Arián</h1>
-Rust developer. Interested in systems programming and low-level tooling.
+Developer. Interested in systems programming and low-level.
 
 ## Currently working on
 
